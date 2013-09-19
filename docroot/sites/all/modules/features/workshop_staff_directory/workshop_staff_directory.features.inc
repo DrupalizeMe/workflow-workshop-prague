@@ -31,7 +31,7 @@ function workshop_staff_directory_node_info() {
       'description' => t('Add a new staff member to the member directory.'),
       'has_title' => '1',
       'title_label' => t('Name'),
-      'help' => '',
+      'help' => t('Please make sure you include full name and contact details for each person you are adding to the directory.'),
     ),
   );
   return $items;
