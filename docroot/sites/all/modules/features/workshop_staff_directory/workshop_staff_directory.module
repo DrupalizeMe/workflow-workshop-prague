@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Workshop Staff Directory feature.
+ */
+
+include_once 'workshop_staff_directory.features.inc';
