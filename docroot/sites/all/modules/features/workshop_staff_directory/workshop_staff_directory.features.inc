@@ -31,7 +31,8 @@ function workshop_staff_directory_node_info() {
       'description' => t('Add a new staff member to the member directory.'),
       'has_title' => '1',
       'title_label' => t('Name'),
-      'help' => '',
+      'help' => t('<p>Please make sure and include an area code when adding a staff members phone number.</p>
+<p>Please remember to use work e-mail addresses and not a staff member\'s personal e-mail address.</p>'),
     ),
   );
   return $items;
