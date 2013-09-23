@@ -14,4 +14,6 @@ Database can be imported with
 
 `gunzip < data/complete-site.sql.gz | mysql -u {username} -p -h {localhost} {databse_name}`
 
+During the workshop we also talk about documenting your workflow, here's an example that might be helpful as a starting point for your own. [Workflow documentation](https://gist.github.com/eojthebrave/3a3eec9e6ad1e7f8f2a1)
+
 Created by [Drupalize.Me](http://drupalize.me).
